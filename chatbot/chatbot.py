@@ -3,7 +3,7 @@ import os
 from typing import List
 
 # Configure with API key
-API_KEY = "AIzaSyDSij09Q6KeBy3Xk5ytR0VRqFG4JQfNUOM"  # Consider using environment variables instead
+API_KEY = "your_api_key"  # Consider using environment variables instead
 
 def initialize_chatbot():
     print("Initializing chatbot...")
